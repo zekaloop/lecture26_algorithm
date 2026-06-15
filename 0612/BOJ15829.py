@@ -1,5 +1,3 @@
-# BOJ 15829: 입력 a~z까지로 구성된 문자열 해시로 변경하기
-
 class Hash:
     def main(self):
         while True:
