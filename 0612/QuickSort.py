@@ -1,5 +1,3 @@
-# 퀵 정렬(Quick Sort)
-
 class QuickSort:
     def main(self):
         num_list = []
