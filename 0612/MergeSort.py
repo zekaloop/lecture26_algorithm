@@ -1,5 +1,3 @@
-# 병합정렬 (Merge Sort)
-
 class MergeSort:
     def main(self):
         num_list = []
