@@ -1,4 +1,3 @@
-# 10814번 (나이순 정렬)
 def coordinate_sort():
     dot_no = int(input(f'입력할 좌표의 수'))
     coordinate_x_y = []
